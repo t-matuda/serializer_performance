@@ -1,4 +1,9 @@
 # serializer_performance
+
+- TestData
+ - 3 string values and 1 double value
+ - 151,110 records
+
 |Library|Serialize[ms]|Size[byte]|Deserialize[ms]|
 |:---|:---|:---|:---|
 |utf8Json|274|10,452,066|483|
